@@ -1,0 +1,5 @@
+# ArrayCollection
+
+## Methods
+
+### pluckNamed
